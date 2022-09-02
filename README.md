@@ -1,1 +1,1 @@
-# CS-5483-Machine-Learning-Assignments
+# CS-5783-Machine-Learning-Assignments
